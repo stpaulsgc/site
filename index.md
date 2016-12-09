@@ -6,6 +6,9 @@ image:
   feature: lukejohn-500.jpg
 ---
 
+Type here my really cool ideas!!!
+
+
 <div class="tiles">
 {% for post in site.posts %}
  {% if forloop.index0 <= 3 %}
